@@ -13,5 +13,11 @@
       "_template": "ContentBlock"
     }
   ],
-  "displayTitle": true
+  "displayTitle": true,
+  "hero": {
+    "ctas": [
+      {}
+    ],
+    "image": "../images/il_1588xN.1449507164_jtmg.jpg"
+  }
 }
